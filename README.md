@@ -1,5 +1,5 @@
 # Taller-1-Omp
-Promedios en omp
+*Promedios en omp*
 
 Ejecutar archivo main.cpp, que genera archivo puntajes.csv:
 
